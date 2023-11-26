@@ -1,3 +1,8 @@
+---
+title: "The Dolphin's Lead: An Introduction To Decomposition"
+author: "S.R. Weaver, ala Professor Lavender"
+tags: decomposition death reincarnation dolphins wolves
+---
     "Dolphin's Sonnet.
     The mammal that squeeks in ocean.
     Dolphin's sonnet,
