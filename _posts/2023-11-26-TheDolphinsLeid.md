@@ -1,5 +1,5 @@
 ---
-title: "The Dolphin's Lead: An Introduction To Decomposition"
+title: "The Dolphin's Leid: An Introduction To Decomposition"
 author: "S.R. Weaver, ala Professor Lavender"
 tags: decomposition death reincarnation dolphins wolves
 ---
