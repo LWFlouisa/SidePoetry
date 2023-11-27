@@ -3,6 +3,13 @@ title: "The Dolphin's Leid: An Introduction To Decomposition"
 author: "S.R. Weaver, ala Professor Lavender"
 tags: decomposition death reincarnation dolphins wolves
 ---
+## Musical Accompanyment
+<audio controls>
+  <source src="" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+## The Dolphin's Leid
 "Dolphin's Sonnet.<br />
 The mammal that squeeks in ocean.<br />
 Dolphin's sonnet,<br />
