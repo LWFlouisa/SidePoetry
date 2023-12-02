@@ -2,7 +2,6 @@
 layout: page
 title: Guestbook
 ---
-## Guestbook
 Welcome to my guestbook page.
 
 <p align="center">
