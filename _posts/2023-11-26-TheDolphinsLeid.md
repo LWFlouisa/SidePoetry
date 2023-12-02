@@ -4,7 +4,10 @@ author: "S.R. Weaver, ala Professor Lavender"
 tags: decomposition death reincarnation dolphins wolves
 ---
 ## Musical Accompanyment
-<iframe title="The Dolphins Leid" src="https://video.ploud.jp/videos/embed/10e7789a-7a7f-4955-a41a-d6b8bd904a2d" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<audio controls>
+  <source src="" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> 
 
 ## The Dolphin's Leid
 "Dolphin's Sonnet.<br />
