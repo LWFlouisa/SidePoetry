@@ -4,6 +4,10 @@ author: "S.R. Weaver, ala Professor Lavender"
 tags: decomposition death reincarnation dolphins wolves
 ---
 ## Musical Accompanyment
+### Peertube
+<iframe title="The Dolphins Leid" src="https://video.ploud.jp/videos/embed/0e4247bc-4d69-41bc-bc2d-b0ea4006bf80" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+
+### Audio Only
 <audio controls>
   <source src="https://lwflouisa.github.io/SidePoetry/Audio/DolphinsLeid/DolphinsLeidRewrite/The Dolphin's Leid.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
